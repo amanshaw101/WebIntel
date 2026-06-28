@@ -1,0 +1,37 @@
+# Python
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Databases & Vector Stores (Local Crawled Data)
+backend/crawled_data.db
+backend/chroma_db/
+chroma_db/
+*.db
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs & System Caching
+.vscode/
+.idea/
+.gemini/
+.agents/
+.DS_Store
+Thumbs.db
+
+# Environments
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
