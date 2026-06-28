@@ -20,7 +20,7 @@ Watch the assistant explore and map pages side-by-side in high-fidelity while lo
 
 ### 3. Demo Video
 A demo showing settings configuration, local tags parsing, crawl lockdowns, and query completions:
-![WebIntel Demo Recording](assets/webintel_demo.webp)
+![WebIntel Demo Recording](assets/Screen Recording 2026-06-28 105522.mp4)
 
 ---
 
